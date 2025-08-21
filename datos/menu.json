@@ -1,0 +1,110 @@
+[
+  {
+    "categoria": "Desayunos",
+    "productos": [
+      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
+      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
+      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
+      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
+      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] }
+    ]
+  },
+    {
+    "categoria": "Raciones",
+    "productos": [
+      { "nombre": "Alitas de pollo", "descripcion": "Alitas de pollo crujientes y jugosas", "precio": "8,50€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Oreja adobada a la plancha", "descripcion": "Oreja adobada a la plancha, sabrosa y tierna", "precio": "10,50€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Huevos rotos con jamón", "descripcion": "Huevos rotos con jamón ibérico, muy sabrosos", "precio": "10,90€", "alergenos": ["huevos"] },
+      { "nombre": "Patatas Bravas", "descripcion": "Patatas bravas con alioli y salsa mixta", "precio": "6,50€", "alergenos": ["huevos"] },
+      { "nombre": "Tequeños", "descripcion": "Deliciosos palitos de queso envueltos en masa frita", "precio": "8,50€", "alergenos": ["gluten", "lacteos"] },
+      { "nombre": "Torreznos de Soria", "descripcion": "Torreznos crujientes y jugosos", "precio": "11,00€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Salchipapas", "descripcion": "Salchichas con patatas fritas, un clásico para compartir", "precio": "7,00€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Croquetas de jamón", "descripcion": "Croquetas cremosas de jamón caseras", "precio": "9,50€", "alergenos": ["gluten", "lacteos", "huevos"] }
+    ]
+  },
+  {
+    "categoria": "Hamburguesas",
+    "productos": [
+      { "nombre": "H. Normal", "descripcion": "Hamburguesa clásica con lechuga y tomate", "precio": "5,50€", "alergenos": ["gluten"] },
+      { "nombre": "H. con bacon", "descripcion": "Hamburguesa con queso y bacon, jugosa y sabrosa", "precio": "7,00€", "alergenos": ["gluten", "lacteos"] },
+      { "nombre": "H. Los Angeles", "descripcion": "Hamburguesa completa con queso, bacon, huevo y cebolla", "precio": "9,00€", "alergenos": ["gluten", "lacteos", "huevos"] }
+    ]
+  },
+  {
+    "categoria": "Sandwichs",
+    "productos": [
+      { "nombre": "S. Mixto", "descripcion": "Sándwich mixto clásico de jamón y queso", "precio": "3,00€", "alergenos": ["gluten", "lacteos"] },
+      { "nombre": "S. Mixto con huevo", "descripcion": "Sándwich mixto con huevo cocido", "precio": "3,70€", "alergenos": ["gluten", "lacteos", "huevos"] },
+      { "nombre": "S. Vegetal", "descripcion": "Sándwich vegetal con atún, huevo y mayonesa", "precio": "5,00€", "alergenos": ["gluten", "huevos", "pescado"] }
+    ]
+  },
+  {
+    "categoria": "Bocadillos",
+    "productos": [
+      { "nombre": "Panceta", "descripcion": "Panceta a la plancha servida en pan crujiente (bocadillo) o en pan pequeño (montado).", "precio": "4,70 - 3,70€", "alergenos": ["gluten"] },
+      { "nombre": "Cinta de lomo", "descripcion": "Jugosa cinta de lomo a la plancha en pan crujiente o montado en pan pequeño.", "precio": "4,70 - 3,70€", "alergenos": ["gluten"] },
+      { "nombre": "Bacon", "descripcion": "Tiras de bacon doradas a la plancha, servidas en pan crujiente o montado en pan pequeño.", "precio": "4,50 - 3,50€", "alergenos": ["gluten"] },
+      { "nombre": "Jamón serrano", "descripcion": "Tradicional jamón serrano acompañado de pan crujiente o pan pequeño.", "precio": "4,50 - 3,50€", "alergenos": ["gluten"] },
+      { "nombre": "Tortilla de patatas", "descripcion": "Clásica tortilla de patatas casera servida en pan crujiente o montado en pan pequeño.", "precio": "4,00 - 3,00€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Tortilla francesa", "descripcion": "Suave tortilla francesa servida en pan crujiente o montado en pan pequeño.", "precio": "4,00 - 3,00€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Pechuga de pollo", "descripcion": "Pechuga de pollo a la plancha en pan crujiente o montado en pan pequeño.", "precio": "5,50 - 4,50€", "alergenos": ["gluten"] },
+      { "nombre": "Pepito de ternera", "descripcion": "Filete de ternera jugoso a la plancha servido en pan crujiente o montado en pan pequeño.", "precio": "5,50 - 4,50€", "alergenos": ["gluten"] }
+    ]
+  },
+  {
+    "categoria": "Platos combinados",
+    "productos": [
+      { "nombre": "Combinado de ternera", "descripcion": "Filete de ternera acompañado de huevo frito, guarnición de patatas o ensalada y pan.", "precio": "8,90€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Combinado de filete de pollo", "descripcion": "Filete de pollo a la plancha acompañado de huevo frito, guarnición de patatas o ensalada y pan.", "precio": "8,90€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Combinado de panceta", "descripcion": "Panceta a la plancha acompañada de huevo frito, guarnición de patatas o ensalada y pan.", "precio": "8,50€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Combinado de cinta de lomo", "descripcion": "Cinta de lomo a la plancha acompañada de huevo frito, guarnición de patatas o ensalada y pan.", "precio": "8,50€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Combinado de bacon", "descripcion": "Bacon dorado a la plancha acompañado de huevo frito, guarnición de patatas o ensalada y pan.", "precio": "8,00€", "alergenos": ["gluten","huevos"] }
+    ]
+  },
+  {
+    "categoria": "Especiales",
+    "productos": [
+      { "nombre": "Pollo con tajadas", "descripcion": "Delicioso pollo acompañado de tajadas. Disponible los domingos y por encargo.", "precio": "12,00€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Picada familiar", "descripcion": "Bandeja variada con torreznos, alitas, panceta, butifarra y patatas fritas, ideal para compartir.", "precio": "19,90€", "alergenos": ["free-alergenos"] }
+    ]
+  },
+  {
+    "categoria": "Cocteles",
+    "productos": [
+      { "nombre": "Mojito", "descripcion": "Refrescante cóctel con Ron, Lima, Zumo de Lima, Hierba Buena y Sirope", "precio": "7,50€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Margarita", "descripcion": "Refrescante cóctel con Tequila, Triple Seco, Zumo de Lima y Sirope", "precio": "7,50€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Caipiriña", "descripcion": "Refrescante cóctel con Cachaça, Gaseoso y Zumo de Lima", "precio": "7,50€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Caipiroska", "descripcion": "Refrescante cóctel con Vodka, Zumo de Lima, Sirope y Gaseosa", "precio": "7,50€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Piña Colada", "descripcion": "Refrescante cóctel con Ron, Malibú, Mangaroca y Zumo de Piña", "precio": "7,50€", "alergenos": ["lacteos"] },
+      { "nombre": "Michelada", "descripcion": "Refrescante cóctel con Clamato, Zumo de Lima y Cerveza al gusto", "precio": "7,50€", "alergenos": ["crustaceos", "moluscos", "sulfitos"] },
+      { "nombre": "Medias de Seda", "descripcion": "Refrescante cóctel con Tequila, Leche Condensada, Fresa y Sirope", "precio": "8,50€", "alergenos": ["lacteos"] },
+      { "nombre": "Tequila Sunrise", "descripcion": "Refrescante cóctel con Tequila, Granadina, Zumo de Lima, Naranja y Melocotón", "precio": "8,50€", "alergenos": ["free-alergenos"] }
+    ]
+  },
+  {
+    "categoria": "Bebidas",
+    "productos": [
+      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
+      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
+      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
+      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
+      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] }
+    ]
+  },
+  {
+    "categoria": "Galería",
+    "productos": [ 
+      {"nombre": "Imagen 1", "descripcion": "Descripción de la imagen 1", "url": "imagenes/imagen1.png"},
+      {"nombre": "Imagen 1", "descripcion": "Descripción de la imagen 1", "url": "imagenes/imagen1.png"},
+      {"nombre": "Imagen 2", "descripcion": "Descripción de la imagen 2", "url": "imagenes/imagen1.png"},
+      {"nombre": "Imagen 2", "descripcion": "Descripción de la imagen 2", "url": "imagenes/imagen1.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen1.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen1.png"}
+
+    ]
+  },
+  {
+    "categoria" : "Contacto",
+    "productos": []
+  }
+]
