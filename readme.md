@@ -1,8 +1,8 @@
-# Bar Atenea
+# Bar Los Angeles
 
-Sitio web para el Bar Atenea, donde los usuarios pueden consultar el menú de desayunos, raciones, hamburguesas, bocadillos, bebidas, postres, promociones y datos de contacto.
+Sitio web para el Bar Los Angeles, donde los usuarios pueden consultar el menú de desayunos, raciones, hamburguesas, bocadillos, bebidas, postres, promociones y datos de contacto.
 
-**[Ver la web en línea](https://byruby12.github.io/BarAtenea/)**
+**[Ver la web en línea](https://byruby12.github.io/BarLosAngeles/)**
 
 ## Características
 
