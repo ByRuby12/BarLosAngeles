@@ -41,4 +41,5 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para
 
 ## Licencia
 
-Creado por ByRuby12 © 2025
+Creado por ByRuby12© 2025
+
