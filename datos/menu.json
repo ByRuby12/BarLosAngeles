@@ -2,10 +2,6 @@
   {
     "categoria": "Desayunos",
     "productos": [
-      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
-      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
-      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
-      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
       {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] }
     ]
   },
@@ -41,14 +37,14 @@
   {
     "categoria": "Bocadillos",
     "productos": [
-      { "nombre": "Panceta", "descripcion": "Panceta a la plancha servida en pan crujiente (bocadillo) o en pan pequeño (montado).", "precio": "4,70 - 3,70€", "alergenos": ["gluten"] },
-      { "nombre": "Cinta de lomo", "descripcion": "Jugosa cinta de lomo a la plancha en pan crujiente o montado en pan pequeño.", "precio": "4,70 - 3,70€", "alergenos": ["gluten"] },
-      { "nombre": "Bacon", "descripcion": "Tiras de bacon doradas a la plancha, servidas en pan crujiente o montado en pan pequeño.", "precio": "4,50 - 3,50€", "alergenos": ["gluten"] },
-      { "nombre": "Jamón serrano", "descripcion": "Tradicional jamón serrano acompañado de pan crujiente o pan pequeño.", "precio": "4,50 - 3,50€", "alergenos": ["gluten"] },
-      { "nombre": "Tortilla de patatas", "descripcion": "Clásica tortilla de patatas casera servida en pan crujiente o montado en pan pequeño.", "precio": "4,00 - 3,00€", "alergenos": ["gluten","huevos"] },
-      { "nombre": "Tortilla francesa", "descripcion": "Suave tortilla francesa servida en pan crujiente o montado en pan pequeño.", "precio": "4,00 - 3,00€", "alergenos": ["gluten","huevos"] },
-      { "nombre": "Pechuga de pollo", "descripcion": "Pechuga de pollo a la plancha en pan crujiente o montado en pan pequeño.", "precio": "5,50 - 4,50€", "alergenos": ["gluten"] },
-      { "nombre": "Pepito de ternera", "descripcion": "Filete de ternera jugoso a la plancha servido en pan crujiente o montado en pan pequeño.", "precio": "5,50 - 4,50€", "alergenos": ["gluten"] }
+      { "nombre": "Panceta", "descripcion": "Panceta a la plancha servida en pan crujiente (bocadillo) o en pan pequeño (montado). Ingrediente extra +0,50€.", "precio": "4,70 - 3,70€", "alergenos": ["gluten"] },
+      { "nombre": "Cinta de lomo", "descripcion": "Jugosa cinta de lomo a la plancha en pan crujiente o montado en pan pequeño. Ingrediente extra +0,50€.", "precio": "4,70 - 3,70€", "alergenos": ["gluten"] },
+      { "nombre": "Bacon", "descripcion": "Tiras de bacon doradas a la plancha, servidas en pan crujiente o montado en pan pequeño. Ingrediente extra +0,50€.", "precio": "4,50 - 3,50€", "alergenos": ["gluten"] },
+      { "nombre": "Jamón serrano", "descripcion": "Tradicional jamón serrano acompañado de pan crujiente o pan pequeño. Ingrediente extra +0,50€.", "precio": "4,50 - 3,50€", "alergenos": ["gluten"] },
+      { "nombre": "Tortilla de patatas", "descripcion": "Clásica tortilla de patatas casera servida en pan crujiente o montado en pan pequeño. Ingrediente extra +0,50€.", "precio": "4,00 - 3,00€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Tortilla francesa", "descripcion": "Suave tortilla francesa servida en pan crujiente o montado en pan pequeño. Ingrediente extra +0,50€.", "precio": "4,00 - 3,00€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Pechuga de pollo", "descripcion": "Pechuga de pollo a la plancha en pan crujiente o montado en pan pequeño. Ingrediente extra +0,50€.", "precio": "5,50 - 4,50€", "alergenos": ["gluten"] },
+      { "nombre": "Pepito de ternera", "descripcion": "Filete de ternera jugoso a la plancha servido en pan crujiente o montado en pan pequeño. Ingrediente extra +0,50€.", "precio": "5,50 - 4,50€", "alergenos": ["gluten"] }
     ]
   },
   {
@@ -84,10 +80,6 @@
   {
     "categoria": "Bebidas",
     "productos": [
-      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
-      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
-      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
-      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] },
       {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] }
     ]
   },
@@ -95,12 +87,11 @@
     "categoria": "Galería",
     "productos": [ 
       {"nombre": "Imagen 1", "descripcion": "Descripción de la imagen 1", "url": "imagenes/imagen1.png"},
-      {"nombre": "Imagen 1", "descripcion": "Descripción de la imagen 1", "url": "imagenes/imagen1.png"},
-      {"nombre": "Imagen 2", "descripcion": "Descripción de la imagen 2", "url": "imagenes/imagen1.png"},
-      {"nombre": "Imagen 2", "descripcion": "Descripción de la imagen 2", "url": "imagenes/imagen1.png"},
-      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen1.png"},
-      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen1.png"}
-
+      {"nombre": "Imagen 1", "descripcion": "Descripción de la imagen 1", "url": "imagenes/imagen2.png"},
+      {"nombre": "Imagen 2", "descripcion": "Descripción de la imagen 2", "url": "imagenes/imagen3.png"},
+      {"nombre": "Imagen 2", "descripcion": "Descripción de la imagen 2", "url": "imagenes/imagen4.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen5.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen6.png"}
     ]
   },
   {
