@@ -2,7 +2,9 @@
   {
     "categoria": "Desayunos",
     "productos": [
-      {"nombre": "Producto de Prueba", "descripcion": "Este es un producto de ejemplo para pruebas. Incluye alérgenos de muestra.", "precio": "0,00€", "alergenos": ["free-alergenos"] }
+      { "nombre": "Desayuno", "descripcion": "Café o infusión acompañado de tostada o bollería.", "precio": "2,80€", "alergenos": ["gluten", "lacteos"] },
+      { "nombre": "Desayuno con croasane", "descripcion": "Café o infusión acompañado de un croasán.", "precio": "2,90€", "alergenos": ["gluten", "lacteos", "huevos"] },
+      { "nombre": "Medio desayuno", "descripcion": "Café o infusión acompañado de media tostada o bollería.", "precio": "2,40€", "alergenos": ["gluten", "lacteos"] }
     ]
   },
     {
@@ -99,3 +101,4 @@
     "productos": []
   }
 ]
+
