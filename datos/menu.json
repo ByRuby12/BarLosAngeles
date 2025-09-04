@@ -88,19 +88,19 @@
 {
   "categoria": "Bebidas",
   "productos": [
-    { "nombre": "Coca Cola (350 ml)", "descripcion": "Refresco clásico en lata individual.", "precio": "2,70€", "alergenos": ["free-alergenos"] },
-    { "nombre": "Fanta (350 ml)", "descripcion": "Refresco de naranja o limón en lata individual.", "precio": "2,70€", "alergenos": ["free-alergenos"] },
-    { "nombre": "Aquarius (350 ml)", "descripcion": "Refresco isotónico de naranja o limón en lata individual.", "precio": "2,70€", "alergenos": ["free-alergenos"] },
-    { "nombre": "Nestea (350 ml)", "descripcion": "Refresco de té con sabor a limón en lata individual.", "precio": "2,70€", "alergenos": ["free-alergenos"] },
+    { "nombre": "Coca Cola (350 ml)", "descripcion": "Refresco clásico.", "precio": "2,70€", "alergenos": ["free-alergenos"] },
+    { "nombre": "Fanta (350 ml)", "descripcion": "Refresco de naranja o limón", "precio": "2,70€", "alergenos": ["free-alergenos"] },
+    { "nombre": "Aquarius (350 ml)", "descripcion": "Refresco isotónico de naranja o limón", "precio": "2,70€", "alergenos": ["free-alergenos"] },
+    { "nombre": "Nestea (350 ml)", "descripcion": "Refresco de té con sabor a limón", "precio": "2,70€", "alergenos": ["free-alergenos"] },
     { "nombre": "Agua con gas (350 ml)", "descripcion": "Agua mineral con gas.", "precio": "2,70€", "alergenos": ["free-alergenos"] },
     { "nombre": "Tónica Schweppes", "descripcion": "Clásica tónica burbujeante.", "precio": "2,50€", "alergenos": ["free-alergenos"] },
     { "nombre": "Zumos", "descripcion": "Variedad de zumos envasados.", "precio": "2,50€", "alergenos": ["free-alergenos"] },
     { "nombre": "Bitter Kas", "descripcion": "Refresco con ligero amargor característico.", "precio": "2,50€", "alergenos": ["free-alergenos"] },
     { "nombre": "Trina", "descripcion": "Refresco sin burbujas en diferentes sabores.", "precio": "2,50€", "alergenos": ["free-alergenos"] },
     { "nombre": "Otros refrescos", "descripcion": "Cualquier otro refresco no listado anteriormente.", "precio": "2,50€", "alergenos": ["free-alergenos"] },
-    { "nombre": "Mahou", "descripcion": "Cerveza clásica Mahou en botella o lata.", "precio": "2,70€", "alergenos": ["gluten"] },
-    { "nombre": "Estrella Galicia", "descripcion": "Cerveza Estrella Galicia en botella o lata.", "precio": "2,70€", "alergenos": ["gluten"] },
-    { "nombre": "Heineken", "descripcion": "Cerveza internacional Heineken en botella o lata.", "precio": "2,70€", "alergenos": ["gluten"] },
+    { "nombre": "Mahou", "descripcion": "Cerveza clásica Mahou en botella.", "precio": "2,70€", "alergenos": ["gluten"] },
+    { "nombre": "Estrella Galicia", "descripcion": "Cerveza Estrella Galicia en botella.", "precio": "2,70€", "alergenos": ["gluten"] },
+    { "nombre": "Heineken", "descripcion": "Cerveza internacional Heineken en botella.", "precio": "2,70€", "alergenos": ["gluten"] },
     { "nombre": "Corona", "descripcion": "Cerveza mexicana Corona.", "precio": "2,80€", "alergenos": ["gluten"] },
     { "nombre": "Alhambra 1925", "descripcion": "Cerveza premium Alhambra 1925.", "precio": "3,00€", "alergenos": ["gluten"] },
     { "nombre": "Tinto de verano", "descripcion": "Refrescante mezcla de vino tinto con gaseosa o limón.", "precio": "3,00€", "alergenos": ["sulfitos"] },
@@ -123,6 +123,7 @@
     "productos": []
   }
 ]
+
 
 
 
