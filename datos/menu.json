@@ -1,12 +1,18 @@
 [
   {
-    "categoria": "Desayunos",
-    "productos": [
-      { "nombre": "Desayuno", "descripcion": "Café o infusión acompañado de tostada o bollería.", "precio": "2,80€", "alergenos": ["gluten", "lacteos"] },
-      { "nombre": "Desayuno con croasane", "descripcion": "Café o infusión acompañado de un croasán.", "precio": "2,90€", "alergenos": ["gluten", "lacteos", "huevos"] },
-      { "nombre": "Medio desayuno", "descripcion": "Café o infusión acompañado de media tostada o bollería.", "precio": "2,40€", "alergenos": ["gluten", "lacteos"] }
-    ]
-  },
+  "categoria": "Desayunos",
+  "productos": [
+    { "nombre": "Café", "descripcion": "Café solo, con leche o cortado.", "precio": "1,60€", "alergenos": ["free-alergenos"] },
+    { "nombre": "Café y tostada", "descripcion": "Café acompañado de tostada con aceite o mantequilla.", "precio": "2,70€", "alergenos": ["gluten"] },
+    { "nombre": "Infusiones", "descripcion": "Variedad de infusiones naturales.", "precio": "1,60€", "alergenos": ["free-alergenos"] },
+    { "nombre": "Colacao", "descripcion": "Vaso de leche caliente con cacao en polvo.", "precio": "1,90€", "alergenos": ["lacteos"] },
+    { "nombre": "Zumo de naranja natural", "descripcion": "Zumo de naranja recién exprimido.", "precio": "2,50€", "alergenos": ["free-alergenos"] },
+    { "nombre": "Desayuno americano + café", "descripcion": "Desayuno completo estilo americano con huevos, bacon y café incluido.", "precio": "5,50€", "alergenos": ["huevos"] },
+    { "nombre": "Café + 2 porras", "descripcion": "Café acompañado de dos porras tradicionales.", "precio": "2,70€", "alergenos": ["gluten"] },
+    { "nombre": "Café + 2 churros", "descripcion": "Café acompañado de dos churros clásicos.", "precio": "2,50€", "alergenos": ["gluten"] },
+    { "nombre": "Café y tostada con jamón", "descripcion": "Café acompañado de tostada con jamón serrano.", "precio": "3,70€", "alergenos": ["gluten"] }
+  ]
+},
     {
     "categoria": "Raciones",
     "productos": [
@@ -101,4 +107,5 @@
     "productos": []
   }
 ]
+
 
