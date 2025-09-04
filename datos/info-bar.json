@@ -4,7 +4,7 @@
   "telefono": "643841749",
   "email": "losangeles@gmail.com",
   "horario": "Domingo a Jueves: 8:00 - 2:00 <br>⏰ Viernes a Sabados: 8:00 - 2:30",
-  "enlaceGoogleMaps": "https://www.google.com/maps/place/Bar-+Cafeter%C3%ADa+Los+Angeles/@40.351675,-3.7093655,14z/data=!4m16!1m7!3m6!1s0xd4227247378ad8d:0x1cafe2ad0d04efc1!2sBar+Cafeter%C3%ADa+Atenea!8m2!3d40.3602595!4d-3.6899356!16s%2Fg%2F11xm12wl_7!3m7!1s0xd422769d83cc179:0x3c8a3a5bb490c673!8m2!3d40.3552332!4d-3.6979271!9m1!1b1!16s%2Fg%2F11t647wsn6?entry=ttu&g_ep=EgoyMDI1MDgxOC4wIKXMDSoASAFQAw%3D%3D",
+  "enlaceGoogleMaps": "https://g.page/r/CXPGkLRbOoo8EAE/review",
   "logo": "imagenes/logo-bar.png",
   "banner": "imagenes/banner-bar.png",
   "descripcion": "Bar Los Angeles - Tu lugar para disfrutar de deliciosos desayunos, raciones, hamburguesas, bocadillos y más.",
@@ -142,4 +142,5 @@
   "color-galeria-modal-bg":  "#000000D9",
   "color-galeria-modal-contador-bg": "#00000073"
   }
+
 }
