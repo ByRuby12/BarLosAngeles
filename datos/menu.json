@@ -115,7 +115,12 @@
       {"nombre": "Imagen 2", "descripcion": "Descripción de la imagen 2", "url": "imagenes/imagen3.png"},
       {"nombre": "Imagen 2", "descripcion": "Descripción de la imagen 2", "url": "imagenes/imagen4.png"},
       {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen5.png"},
-      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen6.png"}
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen6.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen7.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen8.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen9.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen10.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen11.png"}
     ]
   },
   {
@@ -123,6 +128,7 @@
     "productos": []
   }
 ]
+
 
 
 
